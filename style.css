@@ -1,0 +1,24 @@
+#header1 {
+    color: rgb(8, 45, 93);
+    margin-top: 20px;
+    font-size: 50px;
+    margin-bottom: -15px;
+}
+body {
+    background-color: rgb(170, 255, 244);
+}
+#faces {
+    font-size: 30px;
+    color: rgb(65, 14, 116);
+    background-color: rgb(153, 255, 246);
+}
+#line {
+    margin-left: 20px;
+    margin-right: 22px;
+    font-size: 50px;
+}
+label {
+    font-size: 20px;
+    background-color: rgb(161, 228, 255);
+    border-radius: 10px;
+}
